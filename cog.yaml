@@ -55,4 +55,6 @@ build:
 
 predict: "predict.py:Predictor"
 
-image: "r8.im/firtoz/trellis"
+image: "r8.im/alwynhd/trellis_alwyn"
+
+
